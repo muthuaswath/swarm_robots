@@ -1,6 +1,0 @@
-<map id="/home/aswath/enpm808x/wsfinal/src/swarm_robots/include/swarm_robots/agent_node.hpp" name="/home/aswath/enpm808x/wsfinal/src/swarm_robots/include/swarm_robots/agent_node.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="197,5,386,76"/>
-<area shape="rect" id="node2" href="$agent__node_8cpp.html" title="The header file for coordinate system used in the project." alt="" coords="5,124,180,180"/>
-<area shape="rect" id="node3" href="$swarm__master_8cpp.html" title="File for robot main execution methods." alt="" coords="204,124,379,180"/>
-<area shape="rect" id="node4" href="$testswarm_8cpp.html" title="Cpp file to define test cases." alt="" coords="403,124,577,180"/>
-</map>
