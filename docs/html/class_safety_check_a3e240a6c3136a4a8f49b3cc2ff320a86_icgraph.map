@@ -1,0 +1,4 @@
+<map id="SafetyCheck::ScanCallback" name="SafetyCheck::ScanCallback">
+<area shape="rect" id="node1" title="Laser scan callback function." alt="" coords="236,5,423,32"/>
+<area shape="rect" id="node2" href="$class_safety_check.html#aaf46c130be11656c7c7b0a6371ca67a8" title="SafetyCheck parameterized constructor, initializes agent namespace and nodehandle." alt="" coords="5,5,188,32"/>
+</map>

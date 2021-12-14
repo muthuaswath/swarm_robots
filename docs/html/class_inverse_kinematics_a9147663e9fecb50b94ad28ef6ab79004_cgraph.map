@@ -1,0 +1,6 @@
+<map id="InverseKinematics::PerformIK" name="InverseKinematics::PerformIK">
+<area shape="rect" id="node1" title="Invoke PerformModelIK() and CheckSafety()" alt="" coords="5,39,144,80"/>
+<area shape="rect" id="node2" href="$class_inverse_kinematics.html#ae5aee766b1e055728aeefaa7902c8009" title="Check if agent is safe from collissions." alt="" coords="192,5,331,47"/>
+<area shape="rect" id="node4" href="$class_inverse_kinematics.html#ab39196bd3e2ef0f469213037a0879d53" title="Compute goal velocity to reach goal state." alt="" coords="192,71,331,112"/>
+<area shape="rect" id="node3" href="$class_safety_check.html#abce40fd30bf08fdcb5c32e42c91a85ec" title="Gets safce obstacle free distance." alt="" coords="379,13,585,39"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Agent::PerformInverseKinematics" name="Agent::PerformInverseKinematics">
+<area shape="rect" id="node1" title="Invokes IK method from inverse kinematics class." alt="" coords="5,35,224,61"/>
+<area shape="rect" id="node2" href="$class_path_planner.html#a5b0079d28ff3b2a3cd676694fbe3a431" title="Get Contact Points on the surface of object." alt="" coords="272,5,471,32"/>
+<area shape="rect" id="node3" href="$class_inverse_kinematics.html#a9147663e9fecb50b94ad28ef6ab79004" title="Invoke PerformModelIK() and CheckSafety()" alt="" coords="302,57,441,98"/>
+<area shape="rect" id="node4" href="$class_inverse_kinematics.html#ae5aee766b1e055728aeefaa7902c8009" title="Check if agent is safe from collissions." alt="" coords="519,23,657,65"/>
+<area shape="rect" id="node6" href="$class_inverse_kinematics.html#ab39196bd3e2ef0f469213037a0879d53" title="Compute goal velocity to reach goal state." alt="" coords="519,89,657,130"/>
+<area shape="rect" id="node5" href="$class_safety_check.html#abce40fd30bf08fdcb5c32e42c91a85ec" title="Gets safce obstacle free distance." alt="" coords="705,31,912,57"/>
+</map>

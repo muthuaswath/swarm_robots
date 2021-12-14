@@ -1,0 +1,4 @@
+<map id="AgentNode::PosCallback" name="AgentNode::PosCallback">
+<area shape="rect" id="node1" title="Fetched and initialized current position of agent." alt="" coords="213,5,383,32"/>
+<area shape="rect" id="node2" href="$class_agent_node.html#acac847250cdeb0bf29e39d944ec9916c" title="AgentNode parameterized constructor, initializes agent with given id." alt="" coords="5,5,165,32"/>
+</map>

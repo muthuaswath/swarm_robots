@@ -1,0 +1,4 @@
+<map id="InverseKinematics::CheckSafety" name="InverseKinematics::CheckSafety">
+<area shape="rect" id="node1" title="Check if agent is safe from collissions." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node2" href="$class_safety_check.html#abce40fd30bf08fdcb5c32e42c91a85ec" title="Gets safce obstacle free distance." alt="" coords="192,13,399,39"/>
+</map>

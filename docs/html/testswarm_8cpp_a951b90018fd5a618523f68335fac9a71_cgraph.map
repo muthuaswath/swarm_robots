@@ -1,0 +1,4 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="Tests total agents spawned." alt="" coords="5,5,61,32"/>
+<area shape="rect" id="node2" href="$class_arena.html#a7b86973084d4fa02a1258d7591bf21a7" title="Returns total active agents in swarm." alt="" coords="109,5,261,32"/>
+</map>

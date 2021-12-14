@@ -1,0 +1,4 @@
+<map id="Agent::Stop" name="Agent::Stop">
+<area shape="rect" id="node1" title="Sets all velocities to zero." alt="" coords="233,5,324,32"/>
+<area shape="rect" id="node2" href="$class_agent_node.html#aeef406d8772c16cbd162ff56459431b2" title="Service function that is called with /service, this function changes the message according to the use..." alt="" coords="5,5,185,32"/>
+</map>

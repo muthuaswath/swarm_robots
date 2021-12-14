@@ -1,0 +1,4 @@
+<map id="PathPlanner::PathPlanner" name="PathPlanner::PathPlanner">
+<area shape="rect" id="node1" title="PathPlanner parameterized constructor, initializes agent namespace and nodehandle." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node2" href="$class_path_planner.html#a71f7fadd534a01e71c4baf2e298778ff" title="Creates OMPL empty map for path planning." alt="" coords="225,5,428,32"/>
+</map>

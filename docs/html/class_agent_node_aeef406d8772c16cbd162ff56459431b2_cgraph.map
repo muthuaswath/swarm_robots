@@ -1,0 +1,4 @@
+<map id="AgentNode::SwarmService" name="AgentNode::SwarmService">
+<area shape="rect" id="node1" title="Service function that is called with /service, this function changes the message according to the use..." alt="" coords="5,5,185,32"/>
+<area shape="rect" id="node2" href="$class_agent.html#a2edd25cab45d0940a8522f6ae15882c2" title="Sets all velocities to zero." alt="" coords="233,5,324,32"/>
+</map>

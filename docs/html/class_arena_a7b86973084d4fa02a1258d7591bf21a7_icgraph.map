@@ -1,0 +1,4 @@
+<map id="Arena::GetSwarmSize" name="Arena::GetSwarmSize">
+<area shape="rect" id="node1" title="Returns total active agents in swarm." alt="" coords="109,5,261,32"/>
+<area shape="rect" id="node2" href="$testswarm_8cpp.html#a951b90018fd5a618523f68335fac9a71" title="Tests total agents spawned." alt="" coords="5,5,61,32"/>
+</map>

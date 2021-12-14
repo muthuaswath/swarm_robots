@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['rollback_5fenv_5fvariables_234',['rollback_env_variables',['../namespace__setup__util.html#af3030db6102b5aa35cd354a2fb6cca03',1,'_setup_util']]]
+  ['obstacle_0',['Obstacle',['../class_obstacle.html#a77225d51c1641de000d48ca33bdf488a',1,'Obstacle']]],
+  ['operator_2b_1',['operator+',['../class_state.html#a04a87b586760d1241c0387ec4c18e431',1,'State::operator+(State const &amp;state)'],['../class_state.html#a04a87b586760d1241c0387ec4c18e431',1,'State::operator+(State const &amp;state)']]]
 ];

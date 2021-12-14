@@ -1,0 +1,4 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="Test FK Stop method." alt="" coords="5,5,61,32"/>
+<area shape="rect" id="node2" href="$class_forward_kinematics.html#af1af72369f89a3b5c3373354d058bdbf" title="Set velocity to stop agent motion." alt="" coords="109,5,279,32"/>
+</map>
