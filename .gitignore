@@ -65,5 +65,4 @@ build/
 # IDE
 .vscode/
 
-*.html
 *.tex
